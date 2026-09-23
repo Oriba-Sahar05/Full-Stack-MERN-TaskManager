@@ -30,8 +30,8 @@ Node.js, Express, MongoDB Atlas, Mongoose, JWT, bcrypt.
 
 ## Live Deployment
 
-- Frontend: `<add your Vercel URL here after deploying>`
-- Backend API: `<add your Render URL here after deploying>`
+- Frontend: `https://full-stack-mern-task-manager.vercel.app/`
+- Backend API: `https://full-stack-mern-taskmanager-1.onrender.com`
 
 ## Tech Stack
 
